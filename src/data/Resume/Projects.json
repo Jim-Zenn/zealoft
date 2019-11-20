@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Drift - Delivery Along the Way",
+    "year": 2018,
+    "skills": ["Go", "Python", "JavaScript"],
+    "descriptions": [
+      "Designed a delivery system that utilizes existing traffic to delivery packages with maximized efficiency.",
+      "Designed algorithms to match deliveries and deliverers at low time and distance cost.",
+      "Implemented a Go server that uses channels to handle communications among end users.",
+      "Developed a real-time visualization of the algorithm simulation using Google Maps API and Google Firebase."
+    ]
+  },
+  {
+    "name": "Math Notes",
+    "year": 2018,
+    "skills": ["HTML5", "CSS3", "Javascript"],
+    "descriptions": [
+      "Built and designed a website that displays LaTeX notes with clear legible layout optimized for both desktop and mobile.",
+      "Designed efficient navigation flow through all the notes with anotations and collapsable proofs and solutions."
+    ]
+  }
+]

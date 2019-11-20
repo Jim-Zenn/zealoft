@@ -1,0 +1,56 @@
+[
+  {
+    "employer": "Google Inc.",
+    "title": "Software Engineer Intern",
+    "from": "Jun 2019",
+    "fromAbbr": "06/19",
+    "to": "Sep 2019",
+    "toAbbr": "09/19",
+    "location": "Mountain View, CA",
+    "descriptions": [
+      "Built stateful RPC sampler that can provide testability to over 80% of previously untestable Google Shopping RPCs.",
+      "Designed and built stateful log sampling pipeline with the stateful RPC sampler for a Google Shopping server.",
+      "Cooperated with multiple Google Shopping teams to ensure a robust and reliable log replay interface."
+    ]
+  },
+  {
+    "employer": "Teambition",
+    "title": "Front-end Developer Intern",
+    "from": "Sep 2015",
+    "fromAbbr": "09/15",
+    "to": "Dec 2015",
+    "toAbbr": "12/15",
+    "location": "Shanghai, China",
+    "descriptions": [
+      "Integrated Evernote, GitHub, and other third-party apps into Teambition so that users gets update notifications.",
+      "Upgraded the interface of the permission system, enabling a finer control within and across organizations.",
+      "Built Teambition’s blog and career site with Wordpress and nodeJS, both sites now have over 10,000 pageviews."
+    ]
+  },
+  {
+    "employer": "UC Berkeley EECS Dept.",
+    "title": "Lab Assistant",
+    "from": "Jun 2017",
+    "fromAbbr": "06/17",
+    "to": "Aug 2017",
+    "toAbbr": "08/17",
+    "location": "Berkeley, CA",
+    "descriptions": [
+      "Covered classic data structures and algorithms topics such as lists, trees, graphs, runtime analysis, etc."
+    ]
+  },
+  {
+    "employer": "IO Design Group",
+    "title": "Founder",
+    "from": "Sep 2014",
+    "fromAbbr": "04/14",
+    "to": "Aug 2015",
+    "toAbbr": "08/15",
+    "location": "Harbin, China",
+    "descriptions": [
+      "Drafted the design guideline for Harbin Institute of Technology Model United Nations and other major events.",
+      "Managed design and production of 6th HIT Model United Nations materials.",
+      "Recruited over 100 members in the first year."
+    ]
+  }
+]

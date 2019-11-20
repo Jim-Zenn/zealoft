@@ -1,0 +1,25 @@
+[
+  {
+    "college": "University of California, Los Angeles",
+    "collegeAbbr": "UCLA",
+    "major": "Mathematics of Computation (B.S.)",
+    "majorAbbr": "Math B.S.",
+    "from": "Jun 2018",
+    "to": "Dec 2019",
+    "descriptions": [
+      "Optimization, Data Mining, Probability Theory, Linear Algebra, Mathematical Analysis, Dynamics, Operating System."
+    ]
+  },
+  {
+    "college": "University of California, Berkeley",
+    "collegeAbbr": "UC Berkeley",
+    "major": "Cross Enrollment",
+    "from": "Jan 2017",
+    "fromAbbr": "01/17",
+    "to": "Aug 2017",
+    "toAbbr": "08/17",
+    "descriptions": [
+      "Data Structures, Structure and Interpretation of Computer Programs."
+    ]
+  }
+]

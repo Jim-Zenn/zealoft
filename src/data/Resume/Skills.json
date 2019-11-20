@@ -1,0 +1,75 @@
+[
+  {
+    "category": "Programming Languages",
+    "skills": [
+      {
+        "name": "Java",
+        "proficiency": 1
+      },
+      {
+        "name": "Python",
+        "proficiency": 1
+      },
+      {
+        "name": "C++",
+        "proficiency": 2
+      },
+      {
+        "name": "Typescript",
+        "proficiency": 1
+      },
+      {
+        "name": "Javascript",
+        "proficiency": 1
+      },
+      {
+        "name": "Go",
+        "proficiency": 1
+      },
+      {
+        "name": "C",
+        "proficiency": 1
+      },
+      {
+        "name": "HTML & CSS",
+        "proficiency": 1
+      },
+      {
+        "name": "SQL",
+        "proficiency": 2
+      },
+      { "name": "ISPC", "proficiency": 2 }
+    ]
+  },
+  {
+    "category": "Frameworks & Tools",
+    "skills": [
+      { "name": "Angular", "proficiency": 1 },
+      { "name": "React", "proficiency": 1 },
+      { "name": "Flutter", "proficiency": 1 },
+      { "name": "Tensorflow", "proficiency": 2 },
+      { "name": "CUDA", "proficiency": 2 },
+      { "name": "OpenMP", "proficiency": 1 },
+      { "name": "Django", "proficiency": 1 },
+      { "name": "D3.js", "proficiency": 3 }
+    ]
+  },
+  {
+    "category": "Design and Prototyping",
+    "skills": [
+      { "name": "Sketch", "proficiency": 1 },
+      { "name": "Photoshop", "proficiency": 2 },
+      { "name": "After Effects", "proficiency": 3 },
+      { "name": "Processing", "proficiency": 3 },
+      { "name": "Indesign", "proficiency": 4 }
+    ]
+  },
+  {
+    "category": "Data Mining & Machine Learning",
+    "skills": "classification, clustering, prediction, pattern mining, similarity search, etc."
+  },
+  {
+    "category": "Parallel Computing",
+    "skills": "Studied OpenMP, CUDA, ISPC and low-level optimization stratigies from CMU 15-618 lecture videos."
+  }
+]

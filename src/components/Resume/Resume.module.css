@@ -1,0 +1,217 @@
+.content--resume {
+  padding-top: 30px !important;
+  min-height: unset;
+  margin-bottom: 70px;
+  color: black;
+  line-height: 1.8;
+}
+
+#print-button {
+  align-self: flex-end;
+}
+
+.resume-content {
+  width: 100%;
+}
+
+#resume__info {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+#resume__legal-name {
+  font-family: var(--display-font);
+  font-size: 2.1em;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.1px;
+  /* text-transform: uppercase; */
+}
+
+#resume__expected-graduation {
+  display: block;
+  font-weight: 500;
+  letter-spacing: -0.04em;
+}
+
+#resume__contact {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  line-height: 1.3;
+}
+
+#resume__contact a {
+  text-decoration: none;
+}
+
+#resume__contact #resume__email:before,
+#resume__contact #resume__phone:before,
+#resume__contact #resume__website:before {
+  color: black;
+}
+
+#resume__contact #resume__email:before {
+  content: "email: ";
+}
+
+#resume__contact #resume__phone:before {
+  content: "phone: ";
+}
+
+#resume__contact #resume__website:before {
+  content: "website: ";
+}
+
+.item__field--abbr {
+  display: none;
+}
+
+.item__field-item:after {
+  content: ",";
+}
+
+.item__field-item:last-of-type:after {
+  content: "";
+}
+
+.resume__section {
+  margin-top: 10px;
+}
+
+.section__heading {
+  font-size: 108%;
+  display: block;
+  border-bottom: #000 1px solid;
+  margin-bottom: 5px;
+  font-weight: 600;
+  width: 100%;
+}
+
+.section__item {
+  list-style: none;
+  margin-bottom: 4px;
+}
+
+#resume__skills .section__item {
+  margin-bottom: 0;
+}
+
+.item__heading {
+  display: flex;
+  font-weight: 500;
+  flex-flow: row nowrap;
+  font-size: 106%;
+}
+
+.item__heading .item__field:nth-of-type(1) {
+  min-width: 34ch;
+}
+
+.item__heading .item__field:nth-of-type(2) {
+  min-width: 29ch;
+}
+
+.resume
+  #resume__section-work-experiences
+  .item__heading
+  .item__field:nth-of-type(2) {
+  min-width: 20ch;
+}
+
+.item__field {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.item__field:last-of-type {
+  width: 100%;
+  text-align: right;
+}
+
+.item__description {
+  list-style-position: inside;
+}
+
+.proficiency-scale {
+  margin-left: 10px;
+  display: inline-block;
+  font-weight: 400;
+  font-size: 10px;
+}
+.proficiency-scale:before {
+  margin-right: 10px;
+  content: "|";
+  font-weight: bold;
+  color: #bbb;
+}
+
+.proficiency-scale span {
+  display: inline-block;
+  margin-bottom: 0;
+  line-height: 22px;
+}
+
+.proficiency-scale span:last-of-type:before {
+  margin-right: 6px;
+}
+
+.prof-1,
+.prof-2,
+.prof-3,
+.prof-4 {
+  white-space: nowrap;
+}
+
+.prof-1:before,
+.prof-2:before,
+.prof-3:before,
+.prof-4:before {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  vertical-align: middle;
+  margin-right: 3px;
+  margin-left: 5px;
+  border-radius: 50%;
+  margin-bottom: 2px;
+}
+
+.prof-1:before {
+  content: " ";
+  background-color: #0062d5;
+}
+
+.prof-2:before {
+  content: " ";
+  background-color: #2491ca;
+}
+
+.prof-3:before {
+  content: " ";
+  background-color: #4ebfbf;
+}
+
+.prof-4:before {
+  content: " ";
+  background-color: #78efb2;
+}
+
+@media (min-width: 1069px) {
+   {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 1068px) {
+   {
+    font-size: 12px;
+  }
+  .content.content--resume {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
