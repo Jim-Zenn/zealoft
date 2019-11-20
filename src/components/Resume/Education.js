@@ -1,13 +1,13 @@
 import React from "react"
 import ResumeStyle from "./Resume.module.css"
 
-import Data from "../../data/Resume/Education"
+import educationJson from "../../data/Resume/Education"
 
 const Education = () => (
   <section>
     <h4 className={ResumeStyle.section__heading}>Education</h4>
     <ul>
-      {Data.map(item => (
+      {educationJson.map(item => (
         <li>
           <h5 className={ResumeStyle.item__heading}>
             <span className={ResumeStyle.item__field}>{item.college}</span>

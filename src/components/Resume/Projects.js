@@ -1,13 +1,13 @@
 import React from "react"
 import ResumeStyle from "./Resume.module.css"
 
-import Data from "../../data/Resume/Projects"
+import projectsJson from "../../data/Resume/Projects"
 
 const Projects = () => (
   <section>
     <h4 className={ResumeStyle.section__heading}>Projects</h4>
     <ul>
-      {Data.map(item => (
+      {projectsJson.map(item => (
         <li>
           <h5 className={ResumeStyle.item__heading}>
             <span className={ResumeStyle.item__field}>{item.name}</span>
