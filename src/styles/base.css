@@ -1,0 +1,22 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--backdrop-color);
+  /* background-color: #6c7175; */
+}
+
+body {
+  position: relative;
+  z-index: -10;
+  font-family: var(--text-font);
+  font-size: var(--default-font-size);
+  line-height: var(--default-line-height);
+  letter-spacing: var(--default-letter-spacing);
+  color: var(--text-color);
+  font-synthesis: none;
+  font-feature-settings: "kern";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}

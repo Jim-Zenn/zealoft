@@ -1,0 +1,49 @@
+:root {
+  font-size: 16px;
+
+  /* fonts */
+  --display-font: , -apple-system-headline, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  --text-font: -apple-system-body, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  --math-font: "CMU Serif", serif;
+  --serif-font: "Untitled Serif", serif;
+  --monospaced-font: "SF Mono", "Pragmata Pro", "source-code-pro", monospace;
+
+  /* text */
+  --default-font-size: 17px;
+  --default-line-height: 1.53;
+  --default-letter-spacing: -0.021em;
+
+  /* color */
+  --backdrop-color: #ffffff;
+  --text-color: #333;
+  --link-color: #0070c9;
+
+  /* curve */
+  --jerk-curve: cubic-bezier(0.8, 0, 0.2, 1);
+
+  /* length variables */
+  --header-height: 64px;
+  --container-width: 88vw;
+
+  /* Bootstrap Colors */
+  --blue-text-color: #004085;
+  --blue-background-color: #cce6ff;
+  --blue-border-color: #b8daff;
+  --green-text-color: #0c5460;
+  --green-background-color: #d1ecf1;
+  --green-border-color: #bee5eb;
+  --green-saturated-color: #00ab22;
+  --gray-text-color: #312e37;
+  --gray-background-color: #f6f6f7;
+  --gray-border-color: #f1f0f3;
+  --yellow-text-color: #856404;
+  --yellow-background-color: #fff3cd;
+  --yellow-border-color: #ffeeba;
+  --yellow-saturated-color: #fecd0a;
+  --red-text-color: #721c24;
+  --red-background-color: #f8d7da;
+  --red-border-color: #f5c6cb;
+  --red-saturated-color: #fc1509;
+}
