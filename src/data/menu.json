@@ -1,0 +1,32 @@
+[
+  {
+    "name": "主页",
+    "id": "home",
+    "to": "/"
+  },
+  {
+    "name": "影集",
+    "id": "photos",
+    "to": "/photos/"
+  },
+  {
+    "name": "札记",
+    "id": "reviews",
+    "to": "/reviews/"
+  },
+  {
+    "name": "观点",
+    "id": "options",
+    "to": "/options/"
+  },
+  {
+    "name": "日志",
+    "id": "journal",
+    "to": "/journal/"
+  },
+  {
+    "name": "简历",
+    "id": "resume",
+    "to": "/resume/"
+  }
+]

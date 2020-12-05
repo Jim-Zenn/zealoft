@@ -2,6 +2,7 @@
   font-size: 16px;
 
   /* fonts */
+  --logo-font: "Museo Sans", sans-serif;
   --display-font: , -apple-system-headline, BlinkMacSystemFont, "Segoe UI",
     Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   --text-font: -apple-system-body, BlinkMacSystemFont, "Segoe UI", Roboto,
@@ -24,7 +25,7 @@
   --jerk-curve: cubic-bezier(0.8, 0, 0.2, 1);
 
   /* length variables */
-  --header-height: 64px;
+  --header-height: 5.25rem;
   --container-width: 88vw;
 
   /* Bootstrap Colors */

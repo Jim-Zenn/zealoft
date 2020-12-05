@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Jim Zenn`,
+    title: `Zealoft`,
     description: `The official personal webiste of Jim Zenn.`,
     author: `@jimzenn`,
   },
@@ -31,7 +31,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `journal`,
-        path: `${__dirname}/src/journal`,
+        path: `${__dirname}/src/posts`,
       },
     },
     `gatsby-transformer-remark`,

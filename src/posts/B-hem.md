@@ -1,7 +1,8 @@
 ---
-title: "Turning 25"
+title: "Review"
 date: "2019-11-12"
-path: "/journal/turning-25"
+category: "review"
+path: "/journal/a-hem"
 ---
 
 After leaving my new bike at Summit Bicycles for some checking, I looked for the nearest library where I can work on my Math homework. That’s how I found Stanford Auxiliary Library.
